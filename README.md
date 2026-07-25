@@ -1,47 +1,42 @@
 <div align="center">
-  <img src="./public/guide.jpg" alt="Vira Stack Modern Web in 3 Mins" />
+
+<img src="https://raw.githubusercontent.com/virastack/modern-web-in-3-minutes/main/assets/guide.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
+
+*An interactive, step-by-step journey demonstrating how modern web applications are built.*
+
+[![ViraStack Guide](https://img.shields.io/badge/ViraStack-Guide-%23ffb900)](https://virastack.com/modern-web-in-3-minutes)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/virastack/modern-web-in-3-minutes/blob/main/LICENSE)
+[![@virastack](https://img.shields.io/badge/-%40virastack-black?logo=x&logoColor=white)](https://x.com/virastack)
+
 </div>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-</div>
+### [🚀 Start Interactive Guide →](https://virastack.com/modern-web-in-3-minutes)
 
-<br />
+## Why ViraStack Guide?
 
-# Modern Web in 3 Minutes
+- **Step-by-Step Learning:** Master modern web development standards from raw HTML to an AI-native experience in just 3 minutes.
+- **Modern Stack:** Built with Next.js 16+, React 19, Tailwind CSS 4, and TypeScript.
+- **UI & Accessibility:** Utilizes shadcn/ui for beautiful, fully accessible, and customizable components.
+- **AI-Native Architecture:** Demonstrates how to integrate AI tools and workflows into modern web applications.
 
-An interactive, step-by-step journey demonstrating how modern web applications are built. From raw HTML to a fully styled, accessible, and AI-native experience using Next.js, Tailwind CSS 4, and shadcn/ui.
+## Quick Start
 
-**[🚀 Start Interactive Guide](https://virastack.com/modern-web-in-3-minutes)**
+```bash
+git clone https://github.com/virastack/modern-web-in-3-minutes.git
+cd modern-web-in-3-minutes
+npm install
+npm run dev
+```
 
 ## Explore the ViraStack Ecosystem
 
-### Projects
-
-- [**Next.js Boilerplate**](https://github.com/virastack/nextjs-boilerplate) - Production-ready Next.js 16+ starter template built with Tailwind CSS 4 and TypeScript.
-- [**AI Rules**](https://github.com/virastack/ai-rules) - AI-native architecture kit and high-discipline protocols for modern React applications.
-- [**Input Mask**](https://github.com/virastack/input-mask) - Lightweight, zero-dependency input masking library optimized for React Hook Form.
-- [**Password Toggle**](https://github.com/virastack/password-toggle) - Fully accessible and highly customizable password visibility hook for React.
-- [**Modern Web in 3 Minutes**](https://github.com/virastack/modern-web-in-3-minutes) - Master modern web development standards in just 3 minutes.
-
-### 🚧 Coming Soon
-
-- [**Start (CLI)**](https://github.com/virastack/cli) - Automated scaffolding tool to initialize and scale high-discipline ViraStack architectures.
-- [**TanStack Boilerplate**](https://github.com/virastack/tanstack-boilerplate) - Production-ready TanStack Start starter template built with Tailwind CSS 4 and TypeScript.
-- [**Standards**](https://github.com/virastack/standards) - A unified suite of ESLint, Prettier, and architectural rules to enforce absolute code integrity.
-- [**Error Guard**](https://github.com/virastack/error-guard) - Pro-grade error handling and smart recovery protocols for zero-friction React environments.
-
-... and more at [**virastack.com**](https://virastack.com)
+Discover all ViraStack tools, libraries, and boilerplates at [**virastack.com**](https://virastack.com).
 
 ## License
 
-Licensed under the <a href="https://github.com/virastack/modern-web-in-3-minutes/blob/main/LICENSE">MIT License</a>.
+Licensed under the [MIT License](https://github.com/virastack/modern-web-in-3-minutes/blob/main/LICENSE).
 
 ## Maintainer
 
