@@ -51,7 +51,7 @@ export default function Step7Final() {
       <div className="p-6 border rounded-xl bg-card space-y-6">
         <div className="flex items-center gap-4 border-b pb-4">
           <Image
-            src="/virastack.svg"
+            src="/virastack.png"
             alt="ViraStack Logo"
             width={64}
             height={64}
@@ -97,14 +97,14 @@ export default function Step7Final() {
           </a>
 
           <a
-            href="https://github.com/virastack/ai-rules"
+            href="https://github.com/virastack/ai"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
           >
             <div className="flex items-center justify-between">
               <span className="font-semibold group-hover:text-primary transition-colors">
-                ai-rules
+                ai
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
@@ -113,14 +113,14 @@ export default function Step7Final() {
           </a>
 
           <a
-            href="https://github.com/virastack/input-mask"
+            href="https://github.com/virastack/mask"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
           >
             <div className="flex items-center justify-between">
               <span className="font-semibold group-hover:text-primary transition-colors">
-                input-mask
+                mask
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
@@ -129,14 +129,14 @@ export default function Step7Final() {
           </a>
 
           <a
-            href="https://github.com/virastack/password-toggle"
+            href="https://github.com/virastack/password"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
           >
             <div className="flex items-center justify-between">
               <span className="font-semibold group-hover:text-primary transition-colors">
-                password-toggle
+                password
               </span>
             </div>
             <p className="text-sm text-muted-foreground">
