@@ -21,15 +21,6 @@
 - **UI & Accessibility:** Utilizes shadcn/ui for beautiful, fully accessible, and customizable components.
 - **AI-Native Architecture:** Demonstrates how to integrate AI tools and workflows into modern web applications.
 
-## Quick Start
-
-```bash
-git clone https://github.com/virastack/modern-web-in-3-minutes.git
-cd modern-web-in-3-minutes
-npm install
-npm run dev
-```
-
 ## Explore the ViraStack Ecosystem
 
 Discover all ViraStack tools, libraries, and boilerplates at [**virastack.com**](https://virastack.com).
