@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/virastack/modern-web-in-3-minutes/main/assets/guide.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/virastack/guide/main/assets/guide.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
 
 *An interactive, step-by-step journey demonstrating how modern web applications are built.*
 
-[![ViraStack Guide](https://img.shields.io/badge/ViraStack-Guide-%23ffb900)](https://virastack.com/modern-web-in-3-minutes)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/virastack/modern-web-in-3-minutes/blob/main/LICENSE)
+[![ViraStack Guide](https://img.shields.io/badge/ViraStack-Guide-%23ffb900)](https://virastack.com/guide)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/virastack/guide/blob/main/LICENSE)
 [![@virastack](https://img.shields.io/badge/-%40virastack-black?logo=x&logoColor=white)](https://x.com/virastack)
 
 </div>
 
 ---
 
-### [🚀 Start Interactive Guide →](https://virastack.com/modern-web-in-3-minutes)
+### [🚀 Start Interactive Guide →](https://virastack.com/guide)
 
 ## Why ViraStack Guide?
 
@@ -27,7 +27,7 @@ Discover all ViraStack tools, libraries, and boilerplates at [**virastack.com**]
 
 ## License
 
-Licensed under the [MIT License](https://github.com/virastack/modern-web-in-3-minutes/blob/main/LICENSE).
+Licensed under the [MIT License](https://github.com/virastack/guide/blob/main/LICENSE).
 
 ## Maintainer
 
